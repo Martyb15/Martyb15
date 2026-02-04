@@ -6,11 +6,11 @@ I build backend systems and security tools, things like a Python blockchain ledg
 
 ### 🔧 What I work with
 
--**Languages**: Python, C++, JavaScript, SQL, Bash
--**Backend**: FastAPI, Flask, Node.js, REST APIs
--**Frontend**: React, Redux Toolkit, Bootstrap
--**Security**: Burp Suite Pro, SQLmap, RIPS, VirusTotal API
--**Tools**: Docker, Git, Linux, Windows Server
+<br>**Languages**: Python, C++, JavaScript, SQL, Bash
+<br>**Backend**: FastAPI, Flask, Node.js, REST APIs
+<br>**Frontend**: React, Redux Toolkit, Bootstrap
+<br>**Security**: Burp Suite Pro, SQLmap, RIPS, VirusTotal API
+<br>**Tools**: Docker, Git, Linux, Windows Server
 
 🔭 Currently
 - Building out my security toolkit and pursuing Network+
