@@ -12,7 +12,7 @@ I build backend systems and security tools, things like a Python blockchain ledg
 <br>**Security**: Burp Suite Pro, SQLmap, RIPS, VirusTotal API
 <br>**Tools**: Docker, Git, Linux, Windows Server
 
-🔭 Currently
+### 🔭 Currently
 - Building out my security toolkit and pursuing Network+
 - Open to backend engineering and cybersecurity roles
 
