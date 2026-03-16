@@ -13,7 +13,7 @@ I build backend systems and security tools, things like a Python blockchain ledg
 
 ### 🔭 Currently
 - Building out my security toolkit and pursuing Network+
-- Open to backend engineering and cybersecurity roles
+- Open to software engineer and cybersecurity roles
 
 <!--
 **Martyb15/Martyb15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
